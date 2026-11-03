@@ -1,0 +1,986 @@
+[
+ {
+  "file": "1512.03385__text.pdf",
+  "source": "1512.03385",
+  "variant": "text",
+  "pages": 4,
+  "expected_ocr_pages": [],
+  "classify_ms": 3.79,
+  "pdf_type": "text_based",
+  "confidence": 1.0,
+  "ocr_pages": [],
+  "detect_ocr_pages": [],
+  "reasons": {},
+  "routing_correct": true,
+  "missed_pages": []
+ },
+ {
+  "file": "1512.03385__scan.pdf",
+  "source": "1512.03385",
+  "variant": "scan",
+  "pages": 4,
+  "expected_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "classify_ms": 0.67,
+  "pdf_type": "scanned",
+  "confidence": 0.95,
+  "ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "detect_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "reasons": {
+   "1": [
+    "scanned"
+   ],
+   "2": [
+    "scanned"
+   ],
+   "3": [
+    "scanned"
+   ],
+   "4": [
+    "scanned"
+   ]
+  },
+  "routing_correct": true,
+  "missed_pages": []
+ },
+ {
+  "file": "1512.03385__scan_stamp.pdf",
+  "source": "1512.03385",
+  "variant": "scan_stamp",
+  "pages": 4,
+  "expected_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "classify_ms": 0.65,
+  "pdf_type": "image_based",
+  "confidence": 0.8,
+  "ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "detect_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "reasons": {
+   "1": [
+    "scanned"
+   ],
+   "2": [
+    "scanned"
+   ],
+   "3": [
+    "scanned"
+   ],
+   "4": [
+    "scanned"
+   ]
+  },
+  "routing_correct": true,
+  "missed_pages": []
+ },
+ {
+  "file": "1512.03385__scan_layer.pdf",
+  "source": "1512.03385",
+  "variant": "scan_layer",
+  "pages": 4,
+  "expected_ocr_pages": null,
+  "classify_ms": 21.4,
+  "pdf_type": "image_based",
+  "confidence": 0.8,
+  "ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "detect_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "reasons": {
+   "1": [
+    "invisible_text_layer"
+   ],
+   "2": [
+    "invisible_text_layer"
+   ],
+   "3": [
+    "invisible_text_layer"
+   ],
+   "4": [
+    "invisible_text_layer"
+   ]
+  },
+  "routing_correct": null,
+  "missed_pages": []
+ },
+ {
+  "file": "1512.03385__mixed.pdf",
+  "source": "1512.03385",
+  "variant": "mixed",
+  "pages": 4,
+  "expected_ocr_pages": [
+   1
+  ],
+  "classify_ms": 2.75,
+  "pdf_type": "mixed",
+  "confidence": 0.725,
+  "ocr_pages": [
+   1
+  ],
+  "detect_ocr_pages": [
+   1
+  ],
+  "reasons": {
+   "2": [
+    "scanned"
+   ]
+  },
+  "routing_correct": true,
+  "missed_pages": []
+ },
+ {
+  "file": "1706.03762__text.pdf",
+  "source": "1706.03762",
+  "variant": "text",
+  "pages": 4,
+  "expected_ocr_pages": [],
+  "classify_ms": 1.22,
+  "pdf_type": "text_based",
+  "confidence": 1.0,
+  "ocr_pages": [],
+  "detect_ocr_pages": [],
+  "reasons": {},
+  "routing_correct": true,
+  "missed_pages": []
+ },
+ {
+  "file": "1706.03762__scan.pdf",
+  "source": "1706.03762",
+  "variant": "scan",
+  "pages": 4,
+  "expected_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "classify_ms": 0.5,
+  "pdf_type": "scanned",
+  "confidence": 0.95,
+  "ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "detect_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "reasons": {
+   "1": [
+    "scanned"
+   ],
+   "2": [
+    "scanned"
+   ],
+   "3": [
+    "scanned"
+   ],
+   "4": [
+    "scanned"
+   ]
+  },
+  "routing_correct": true,
+  "missed_pages": []
+ },
+ {
+  "file": "1706.03762__scan_stamp.pdf",
+  "source": "1706.03762",
+  "variant": "scan_stamp",
+  "pages": 4,
+  "expected_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "classify_ms": 0.81,
+  "pdf_type": "image_based",
+  "confidence": 0.8,
+  "ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "detect_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "reasons": {
+   "1": [
+    "scanned"
+   ],
+   "2": [
+    "scanned"
+   ],
+   "3": [
+    "scanned"
+   ],
+   "4": [
+    "scanned"
+   ]
+  },
+  "routing_correct": true,
+  "missed_pages": []
+ },
+ {
+  "file": "1706.03762__scan_layer.pdf",
+  "source": "1706.03762",
+  "variant": "scan_layer",
+  "pages": 4,
+  "expected_ocr_pages": null,
+  "classify_ms": 10.87,
+  "pdf_type": "image_based",
+  "confidence": 0.8,
+  "ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "detect_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "reasons": {
+   "1": [
+    "invisible_text_layer"
+   ],
+   "2": [
+    "invisible_text_layer"
+   ],
+   "3": [
+    "invisible_text_layer"
+   ],
+   "4": [
+    "invisible_text_layer"
+   ]
+  },
+  "routing_correct": null,
+  "missed_pages": []
+ },
+ {
+  "file": "1706.03762__mixed.pdf",
+  "source": "1706.03762",
+  "variant": "mixed",
+  "pages": 4,
+  "expected_ocr_pages": [
+   1
+  ],
+  "classify_ms": 1.32,
+  "pdf_type": "mixed",
+  "confidence": 0.725,
+  "ocr_pages": [
+   1
+  ],
+  "detect_ocr_pages": [
+   1
+  ],
+  "reasons": {
+   "2": [
+    "scanned"
+   ]
+  },
+  "routing_correct": true,
+  "missed_pages": []
+ },
+ {
+  "file": "1810.04805__text.pdf",
+  "source": "1810.04805",
+  "variant": "text",
+  "pages": 4,
+  "expected_ocr_pages": [],
+  "classify_ms": 2.66,
+  "pdf_type": "text_based",
+  "confidence": 1.0,
+  "ocr_pages": [],
+  "detect_ocr_pages": [],
+  "reasons": {},
+  "routing_correct": true,
+  "missed_pages": []
+ },
+ {
+  "file": "1810.04805__scan.pdf",
+  "source": "1810.04805",
+  "variant": "scan",
+  "pages": 4,
+  "expected_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "classify_ms": 0.81,
+  "pdf_type": "scanned",
+  "confidence": 0.95,
+  "ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "detect_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "reasons": {
+   "1": [
+    "scanned"
+   ],
+   "2": [
+    "scanned"
+   ],
+   "3": [
+    "scanned"
+   ],
+   "4": [
+    "scanned"
+   ]
+  },
+  "routing_correct": true,
+  "missed_pages": []
+ },
+ {
+  "file": "1810.04805__scan_stamp.pdf",
+  "source": "1810.04805",
+  "variant": "scan_stamp",
+  "pages": 4,
+  "expected_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "classify_ms": 0.93,
+  "pdf_type": "image_based",
+  "confidence": 0.8,
+  "ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "detect_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "reasons": {
+   "1": [
+    "scanned"
+   ],
+   "2": [
+    "scanned"
+   ],
+   "3": [
+    "scanned"
+   ],
+   "4": [
+    "scanned"
+   ]
+  },
+  "routing_correct": true,
+  "missed_pages": []
+ },
+ {
+  "file": "1810.04805__scan_layer.pdf",
+  "source": "1810.04805",
+  "variant": "scan_layer",
+  "pages": 4,
+  "expected_ocr_pages": null,
+  "classify_ms": 16.76,
+  "pdf_type": "image_based",
+  "confidence": 0.8,
+  "ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "detect_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "reasons": {
+   "1": [
+    "invisible_text_layer"
+   ],
+   "2": [
+    "invisible_text_layer"
+   ],
+   "3": [
+    "invisible_text_layer"
+   ],
+   "4": [
+    "invisible_text_layer"
+   ]
+  },
+  "routing_correct": null,
+  "missed_pages": []
+ },
+ {
+  "file": "1810.04805__mixed.pdf",
+  "source": "1810.04805",
+  "variant": "mixed",
+  "pages": 4,
+  "expected_ocr_pages": [
+   1
+  ],
+  "classify_ms": 2.45,
+  "pdf_type": "mixed",
+  "confidence": 0.725,
+  "ocr_pages": [
+   1
+  ],
+  "detect_ocr_pages": [
+   1
+  ],
+  "reasons": {
+   "2": [
+    "scanned"
+   ]
+  },
+  "routing_correct": true,
+  "missed_pages": []
+ },
+ {
+  "file": "2005.11401__text.pdf",
+  "source": "2005.11401",
+  "variant": "text",
+  "pages": 4,
+  "expected_ocr_pages": [],
+  "classify_ms": 2.42,
+  "pdf_type": "text_based",
+  "confidence": 1.0,
+  "ocr_pages": [],
+  "detect_ocr_pages": [],
+  "reasons": {},
+  "routing_correct": true,
+  "missed_pages": []
+ },
+ {
+  "file": "2005.11401__scan.pdf",
+  "source": "2005.11401",
+  "variant": "scan",
+  "pages": 4,
+  "expected_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "classify_ms": 0.67,
+  "pdf_type": "scanned",
+  "confidence": 0.95,
+  "ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "detect_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "reasons": {
+   "1": [
+    "scanned"
+   ],
+   "2": [
+    "scanned"
+   ],
+   "3": [
+    "scanned"
+   ],
+   "4": [
+    "scanned"
+   ]
+  },
+  "routing_correct": true,
+  "missed_pages": []
+ },
+ {
+  "file": "2005.11401__scan_stamp.pdf",
+  "source": "2005.11401",
+  "variant": "scan_stamp",
+  "pages": 4,
+  "expected_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "classify_ms": 0.62,
+  "pdf_type": "image_based",
+  "confidence": 0.8,
+  "ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "detect_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "reasons": {
+   "1": [
+    "scanned"
+   ],
+   "2": [
+    "scanned"
+   ],
+   "3": [
+    "scanned"
+   ],
+   "4": [
+    "scanned"
+   ]
+  },
+  "routing_correct": true,
+  "missed_pages": []
+ },
+ {
+  "file": "2005.11401__scan_layer.pdf",
+  "source": "2005.11401",
+  "variant": "scan_layer",
+  "pages": 4,
+  "expected_ocr_pages": null,
+  "classify_ms": 13.9,
+  "pdf_type": "image_based",
+  "confidence": 0.8,
+  "ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "detect_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "reasons": {
+   "1": [
+    "invisible_text_layer"
+   ],
+   "2": [
+    "invisible_text_layer"
+   ],
+   "3": [
+    "invisible_text_layer"
+   ],
+   "4": [
+    "invisible_text_layer"
+   ]
+  },
+  "routing_correct": null,
+  "missed_pages": []
+ },
+ {
+  "file": "2005.11401__mixed.pdf",
+  "source": "2005.11401",
+  "variant": "mixed",
+  "pages": 4,
+  "expected_ocr_pages": [
+   1
+  ],
+  "classify_ms": 1.39,
+  "pdf_type": "mixed",
+  "confidence": 0.725,
+  "ocr_pages": [
+   1
+  ],
+  "detect_ocr_pages": [
+   1
+  ],
+  "reasons": {
+   "2": [
+    "scanned"
+   ]
+  },
+  "routing_correct": true,
+  "missed_pages": []
+ },
+ {
+  "file": "2106.09685__text.pdf",
+  "source": "2106.09685",
+  "variant": "text",
+  "pages": 4,
+  "expected_ocr_pages": [],
+  "classify_ms": 1.37,
+  "pdf_type": "text_based",
+  "confidence": 1.0,
+  "ocr_pages": [],
+  "detect_ocr_pages": [],
+  "reasons": {},
+  "routing_correct": true,
+  "missed_pages": []
+ },
+ {
+  "file": "2106.09685__scan.pdf",
+  "source": "2106.09685",
+  "variant": "scan",
+  "pages": 4,
+  "expected_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "classify_ms": 0.66,
+  "pdf_type": "scanned",
+  "confidence": 0.95,
+  "ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "detect_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "reasons": {
+   "1": [
+    "scanned"
+   ],
+   "2": [
+    "scanned"
+   ],
+   "3": [
+    "scanned"
+   ],
+   "4": [
+    "scanned"
+   ]
+  },
+  "routing_correct": true,
+  "missed_pages": []
+ },
+ {
+  "file": "2106.09685__scan_stamp.pdf",
+  "source": "2106.09685",
+  "variant": "scan_stamp",
+  "pages": 4,
+  "expected_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "classify_ms": 0.53,
+  "pdf_type": "image_based",
+  "confidence": 0.8,
+  "ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "detect_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "reasons": {
+   "1": [
+    "scanned"
+   ],
+   "2": [
+    "scanned"
+   ],
+   "3": [
+    "scanned"
+   ],
+   "4": [
+    "scanned"
+   ]
+  },
+  "routing_correct": true,
+  "missed_pages": []
+ },
+ {
+  "file": "2106.09685__scan_layer.pdf",
+  "source": "2106.09685",
+  "variant": "scan_layer",
+  "pages": 4,
+  "expected_ocr_pages": null,
+  "classify_ms": 13.74,
+  "pdf_type": "image_based",
+  "confidence": 0.8,
+  "ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "detect_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "reasons": {
+   "1": [
+    "invisible_text_layer"
+   ],
+   "2": [
+    "invisible_text_layer"
+   ],
+   "3": [
+    "invisible_text_layer"
+   ],
+   "4": [
+    "invisible_text_layer"
+   ]
+  },
+  "routing_correct": null,
+  "missed_pages": []
+ },
+ {
+  "file": "2106.09685__mixed.pdf",
+  "source": "2106.09685",
+  "variant": "mixed",
+  "pages": 4,
+  "expected_ocr_pages": [
+   1
+  ],
+  "classify_ms": 1.53,
+  "pdf_type": "mixed",
+  "confidence": 0.725,
+  "ocr_pages": [
+   1
+  ],
+  "detect_ocr_pages": [
+   1
+  ],
+  "reasons": {
+   "2": [
+    "scanned"
+   ]
+  },
+  "routing_correct": true,
+  "missed_pages": []
+ },
+ {
+  "file": "2303.08774__text.pdf",
+  "source": "2303.08774",
+  "variant": "text",
+  "pages": 4,
+  "expected_ocr_pages": [],
+  "classify_ms": 1.92,
+  "pdf_type": "text_based",
+  "confidence": 1.0,
+  "ocr_pages": [],
+  "detect_ocr_pages": [],
+  "reasons": {},
+  "routing_correct": true,
+  "missed_pages": []
+ },
+ {
+  "file": "2303.08774__scan.pdf",
+  "source": "2303.08774",
+  "variant": "scan",
+  "pages": 4,
+  "expected_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "classify_ms": 0.61,
+  "pdf_type": "scanned",
+  "confidence": 0.95,
+  "ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "detect_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "reasons": {
+   "1": [
+    "scanned"
+   ],
+   "2": [
+    "scanned"
+   ],
+   "3": [
+    "scanned"
+   ],
+   "4": [
+    "scanned"
+   ]
+  },
+  "routing_correct": true,
+  "missed_pages": []
+ },
+ {
+  "file": "2303.08774__scan_stamp.pdf",
+  "source": "2303.08774",
+  "variant": "scan_stamp",
+  "pages": 4,
+  "expected_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "classify_ms": 0.53,
+  "pdf_type": "image_based",
+  "confidence": 0.8,
+  "ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "detect_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "reasons": {
+   "1": [
+    "scanned"
+   ],
+   "2": [
+    "scanned"
+   ],
+   "3": [
+    "scanned"
+   ],
+   "4": [
+    "scanned"
+   ]
+  },
+  "routing_correct": true,
+  "missed_pages": []
+ },
+ {
+  "file": "2303.08774__scan_layer.pdf",
+  "source": "2303.08774",
+  "variant": "scan_layer",
+  "pages": 4,
+  "expected_ocr_pages": null,
+  "classify_ms": 11.81,
+  "pdf_type": "image_based",
+  "confidence": 0.8,
+  "ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "detect_ocr_pages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "reasons": {
+   "1": [
+    "invisible_text_layer"
+   ],
+   "2": [
+    "invisible_text_layer"
+   ],
+   "3": [
+    "invisible_text_layer"
+   ],
+   "4": [
+    "invisible_text_layer"
+   ]
+  },
+  "routing_correct": null,
+  "missed_pages": []
+ },
+ {
+  "file": "2303.08774__mixed.pdf",
+  "source": "2303.08774",
+  "variant": "mixed",
+  "pages": 4,
+  "expected_ocr_pages": [
+   1
+  ],
+  "classify_ms": 1.95,
+  "pdf_type": "mixed",
+  "confidence": 0.725,
+  "ocr_pages": [
+   1
+  ],
+  "detect_ocr_pages": [
+   1
+  ],
+  "reasons": {
+   "2": [
+    "scanned"
+   ]
+  },
+  "routing_correct": true,
+  "missed_pages": []
+ }
+]
